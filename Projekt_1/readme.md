@@ -1,16 +1,16 @@
 # Проект 1. Проект по созданию программы, которая угадывает загаданное компьютером число за минимальное количество попыток.
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)    
-[3. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[4. Результат](.README.md#Результат)    
-[5. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/Maksim9654/first_reposit_M/tree/main/Projekt_1.README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Maksim9654/first_reposit_M/tree/main/Projekt_1.README.md#Какой-кейс-решаем)    
+[3. Этапы работы над проектом](https://github.com/Maksim9654/first_reposit_M/tree/main/Projekt_1.README.md#Этапы-работы-над-проектом)  
+[4. Результат](https://github.com/Maksim9654/first_reposit_M/tree/main/Projekt_1.README.md#Результат)    
+[5. Выводы](https://github.com/Maksim9654/first_reposit_M/tree/main/Projekt_1.README.md#Выводы) 
 
 ### Описание проекта    
 - Создаем программу, которая угадывает загаданное компьютером число за минимальное количество попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/Maksim9654/first_reposit_M/tree/main/Projekt_1)
 
 
 ### Какой кейс решаем?    
@@ -28,7 +28,7 @@
 - Учимся работать с IDE.
 - Учимся работать с GitHub.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Maksim9654/first_reposit_M/tree/main/Projekt_1.README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -36,17 +36,17 @@
 - Отладка программы
 - Оформление
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Maksim9654/first_reposit_M/tree/main/Projekt_1.README.md#Оглавление)
 
 
 ### Результаты:  
 - Программа работает без ошибок.
 - Алгоритм угадывает число в среднем за: 5 попыток
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Maksim9654/first_reposit_M/tree/main/Projekt_1.README.md#Оглавление)
 
 
 ### Выводы:  
 - Данный алгоритм угадывает число в среднем за: 5 попыток
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Maksim9654/first_reposit_M/tree/main/Projekt_1.README.md#Оглавление)
